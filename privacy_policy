@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>XPF TrueStart Extension Privacy Policy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        h1, h2, h3 {
+            color: #1a1a1a;
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 5px;
+            margin-top: 20px;
+        }
+        strong {
+            font-weight: bold;
+        }
+        ul {
+            list-style: disc;
+            margin-left: 20px;
+            padding-left: 0;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>📜 XPF TrueStart Extension Privacy Policy</h1>
+
+    <p>This privacy policy explains how the <strong>XPF TrueStart</strong> Chrome/Edge New Tab extension collects, uses, and protects user data. The primary purpose of this extension is to customize your browser's New Tab page and provide a retro Windows XP-style interface.</p>
+
+    <h2>2. Data Collected and Stored</h2>
+
+    <p>The <strong>XPF TrueStart</strong> extension stores data <strong>exclusively on the user's local device</strong> to customize and enhance the user experience. This data is maintained using the browser's local storage (<code>localStorage</code>) and is <strong>never transmitted to the extension developer or any third-party server.</strong></p>
+
+    <p>The data collected and stored locally includes:</p>
+    <ul>
+        <li><strong>Favorite Site Records:</strong> Names and URLs of websites added by the user.</li>
+        <li><strong>Sticky Note Content:</strong> Text written by the user in the note widget.</li>
+        <li><strong>Widget Positions and States:</strong> The last position of the Sticky Note (e.g., <code>translate3d</code> values) and its visibility status.</li>
+        <li><strong>Music Favorites:</strong> Unique <strong>YouTube Video IDs</strong> belonging to music tracks liked by the user (<code>myMusicFavs</code>).</li>
+        <li><strong>Interface Settings:</strong> The number of rows set for the Favorites grid (<code>favGridRows</code>).</li>
+    </ul>
+
+    <h2>3. Use of Data</h2>
+
+    <p>The locally stored data is used solely for the following purposes:</p>
+    <ul>
+        <li>To ensure that the extension settings and user-customized content (Favorites, Notes) are loaded when the New Tab is opened.</li>
+        <li>To create and play the list of music tracks liked by the user in the music player.</li>
+        <li>To ensure the note widget opens in the location where the user last left it.</li>
+    </ul>
+
+    <h2>4. Data Sharing</h2>
+
+    <p><strong>XPF TrueStart</strong> <strong>does not transmit, share, or sell any user information</strong>, including the locally stored data, to any developer-owned server or third parties.</p>
+
+    <h2>5. Third-Party Services</h2>
+
+    <p>The extension utilizes an embedded YouTube player within an iframe for its music playback functionality. When using this service, <strong>YouTube's own Privacy Policy and Terms of Use</strong> apply. The developer is not responsible for any data collected by YouTube.</p>
+    <ul>
+        <li><strong>YouTube Embedded Player:</strong> When a user initiates music playback, their browser establishes a connection with YouTube. YouTube may collect anonymous viewing data through this embedded player.</li>
+    </ul>
+
+    <h2>6. User Control</h2>
+
+    <p>You have full control over all local data within the extension:</p>
+    <ul>
+        <li><strong>Deletion:</strong> Favorite links and Note content can be edited or deleted directly through the extension interface.</li>
+        <li><strong>Clearing Data:</strong> By deleting the storage area associated with this extension via your browser's settings, all your local data (Favorites, Notes, Music Favorites) will be permanently erased.</li>
+    </ul>
+
+    <h2>7. Changes to This Policy</h2>
+
+    <p>This privacy policy may be updated from time to time. Significant changes to the policy will be announced on the Chrome Web Store page before a new version of the extension is published.</p>
+
+    <p>Last updated: December 2025</p>
+    
+</body>
+</html>
